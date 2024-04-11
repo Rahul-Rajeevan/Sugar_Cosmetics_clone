@@ -36,7 +36,7 @@ const Navbar = () => {
           <span class="material-symbols-outlined">star</span>
         </div>
       </div>
-    </nav>
+    </nav>    
   );
 };
 

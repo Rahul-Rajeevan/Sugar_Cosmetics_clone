@@ -8,7 +8,7 @@
   height: 40vmin;
   pointer-events: none;
 }
-header,main{
+header,main,footer{
   background-color: black;
 }
 .containers{
